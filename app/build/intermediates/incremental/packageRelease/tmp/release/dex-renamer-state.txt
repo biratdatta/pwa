@@ -1,0 +1,4 @@
+#Fri Jun 07 23:50:37 IST 2024
+base.0=/mnt/1d43824b-b036-40c4-8336-281ea4965ea6/projects/opensource/pwa/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
